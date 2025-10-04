@@ -1,11 +1,60 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Minsheng Huang's Homepage"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
+
+ Hello, welcome to my homepage! I am happy to introduce myself first. I am a engineer in Tianchou's LAB ([OptVerse](https://www.huaweicloud.com/product/optverse.html)) for reasearching the numerical solvers in Huawei copmpany.
+
+ I graduated from the [School of Mathematical Sciences，East China Normal University](https://math.ecnu.edu.cn/) under the supervison of [Professor Shengfeng Zhu](https://math.ecnu.edu.cn/~sfzhu/intro_c.html?language=1&id=177) in 2019. In 2025, I graduated from [School of Mathematical Sciences in Shanghai Jiao Tong University](https://math.sjtu.edu.cn/) with a doctor degree of the compuational mathematics. My advisor is [Professor Wenjun Ying](https://math.sjtu.edu.cn/faculty/wying/). My research interest mainly focus on the scientific computing and computational fluid dynamics.
+
+ I also interested in machine learning-assised modelling and computation. For example, I develop a physics-informed data-driven one fluid cavitation model and a hybrid numerical scheme (deepMTBVD) for compressible single- and multi-phase flow.
+
+ Now I turn to how to use LLM to enhance or expand the ablity of the simulation by our numerical solvers developed in Huawei. If you have the similar interest or innovative ideas, welcome to join us!
+
+ Education
+ ---
+
+ - Ph.D, Computational Mathematics, Shanghai Jiao Tong University, 2021-2025
+
+ - M.S,  Computational Mathematics, Shanghai Jiao Tong University, 2019-2021
+
+ - B.S,  Information and Computing Science, East China Normal University, 2015-2019
+
+
+Publications
+---
+1. $\textbf{M. Huang}$, R. Li, K. Yan, C. Yao, W. Ying. [An Accurate Computational Method for the Global Optimal Reference Field for the Difference Formulation in the Implicit Monte Carlo Radiation Transport](https://arxiv.org/abs/2411.02407), 2025. Under Review.
+
+2. $\textbf{M. Huang}$, X. Deng, O. Matar, W. Ying. A Unified Framework for Non-linear Reconstruction Schemes in a Compact Stencil. Part 2: Learning Operators from Neural Networks, 2025. Under Revision.
+
+3. $\textbf{M. Huang}$, C. Yao, P. Wang, L. Cheng, W. Ying. [Physics-informed data-driven cavitation model for a specific Mie–Grüneisen EOS](https://www.sciencedirect.com/science/article/pii/S0021999124009513), Journal of Computational Physics, 524:113703, 2025.
+
+4. $\textbf{M. Huang}$,  L. Cheng, W. Ying, X. Deng, X. Feng. [A low-dissipation reconstruction scheme for compressible single- and multi-phase flows based on artificial neural networks](https://www.sciencedirect.com/science/article/pii/S0021999125001779), Journal of Computational Physics, 530:113894, 2025.
+
+5. $\textbf{M. Huang}$, P. Wang, L. Cheng, C. Yao, W. Ying. [A Robust and Efficient Multiphysics Numerical System for Intensive Blast Wave Propagation in Complex Enviroments](https://arxiv.org/abs/2411.02407), accepted by Communications in Computational Physics.
+
+6. L. Tan, $\textbf{M. Huang}$, S. Zhu, P. Wang, W. Ying (2023). \href{https://arxiv.org/abs/2404.15249}[A GPU-Accelerated Cartesian Grid Method for PDEs on Irregular Domain]( https://doi.org/10.4208/cicp.OA-2024-0039), Communications in Computational Physics, 37(5), 1250-1276, 2025.
+
+7. L. Tan, $\textbf{M. Huang}$, W. Ying. [A GPU-accelerated Cartesian grid method is proposed for solving the heat, wave, and Schrodinger equations on irregular domains](https://www.global-sci.org/intro/article_detail/cicp/23390.html). Communications in Computational Physics, Vol. 36, pp. 485-520, 2023.
+
+8. H. Zhou, $\textbf{M. Huang}$, W. Ying. [ADI schemes for heat equations with irregular boundaries and interfaces in 3D with applications](https://arxiv.org/abs/2309.00979), 2023.
+
+Conference & Talk
+---
+- The $6^{th}$ annular conference of Institute of Applied Physics and Computational Mathematics, Huailai, China, 2024
+
+- The $12^{th}$ [International Conference on Computational Fluid Dynamics](https://www.iccfd.org/) (ICCFD12), Kobe, Japan, 2024
+
+
+Research Visiting
+---
+- Tokyo Institude of Science, [Professor Feng Xiao](https://www.xiao.mech.e.titech.ac.jp/xiao-profile-new.html), July.13——July.23, 2024.
+
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
@@ -25,15 +74,15 @@ For those users that need more advanced functionality, the template also support
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
+1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right.
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header.
 
 Create content & metadata
 ------
@@ -46,7 +95,7 @@ The repository includes [a set of Jupyter notebooks](https://github.com/academic
 
 How to edit your site's GitHub repository
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons.
 
 Example: editing a Markdown file for a talk
 ![Editing a Markdown file for a talk](/images/editing-talk.png)
