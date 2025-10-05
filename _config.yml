@@ -23,8 +23,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.png"
-  name             : "Your Sidebar Name"
+  avatar           : "/images/photo.png"
+  name             : "Minsheng Huang"
   pronouns         : # example: "she/her"
   bio              : "Ph.D of Computational Mathematics (SJTU)"
   location         : "Shanghai, China"
