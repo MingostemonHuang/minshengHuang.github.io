@@ -10,4 +10,5 @@ excerpt: 'This paper introduces the global optimal reference field method (GORFM
 paperurl: 'https://arxiv.org/abs/2411.02407'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: $\textbf{M. Huang}$, 'R. Li, K. Yan, C. Yao, W. Ying. &quot; An Accurate Computational Method for the Global Optimal Reference Field for the Difference Formulation in the Implicit Monte Carlo Radiation Transport.&quot; <i>Under Review</i>. 2025.'
+---
 
